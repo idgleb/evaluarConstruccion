@@ -10,6 +10,7 @@ public class Main {
         Cliente newCliente = null;
         ProjectDeConctruccion newProj = null;
 
+
         int seleccion = 0;
         do {
             String[] opciones = {"Registrar projecto", "evaluar etapas", "Leer informe", "Salir"};
